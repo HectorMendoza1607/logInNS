@@ -26,5 +26,9 @@
   {
     "id": 7,
     "materia": "Formación civica y etica"
+  },
+  {
+    "id": 7,
+    "materia": "Lectura"
   }
 ]
