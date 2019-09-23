@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "materia": "Matematicas"
+  },
+  {
+    "id": 2,
+    "materia": "Física"
+  },
+  {
+    "id": 3,
+    "materia": "Química"
+  },
+  {
+    "id": 4,
+    "materia": "Inglés"
+  },
+  {
+    "id": 5,
+    "materia": "Historia"
+  },
+  {
+    "id": 6,
+    "materia": "Geografia"
+  },
+]
